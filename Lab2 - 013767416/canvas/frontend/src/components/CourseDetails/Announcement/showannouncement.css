@@ -1,0 +1,31 @@
+.h2{
+    float:left;
+    margin-top: 100px;
+}
+
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 80px;
+  }
+  
+.td, th {
+  
+    text-align: left;
+}
+#trim{
+    white-space: nowrap;
+    overflow: hidden;
+    width: 180px;
+    height: 30px;
+    text-overflow: ellipsis; 
+}
+.tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.btn-add
+{
+    margin-left: 10px;
+    margin-top: 20px;
+}
