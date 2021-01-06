@@ -8,7 +8,7 @@
     "antd": "^3.13.6",
     "apollo-boost": "^0.3.1",
     "apollo-client": "^2.5.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-https-proxy-fix": "^0.17.1",
     "bootstrap": "^4.3.1",
     "bootstrap-social": "^5.1.1",
