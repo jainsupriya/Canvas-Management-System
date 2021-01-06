@@ -6,7 +6,7 @@
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
     "antd": "^3.13.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-https-proxy-fix": "^0.17.1",
     "bootstrap": "^4.3.1",
     "bootstrap-social": "^5.1.1",
