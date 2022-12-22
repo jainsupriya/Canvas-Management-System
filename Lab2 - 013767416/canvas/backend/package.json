@@ -23,7 +23,7 @@
     "form-data": "^2.3.3",
     "fs-extra": "^7.0.1",
     "hbs": "^4.0.2",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "kafka-node": "^4.0.3",
     "mocha": "^6.0.2",
     "mongodb": "^3.2.2",
